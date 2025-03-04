@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\C++\RayTracingInAWeekend\RayTracingInAWeekend\RayTracingInAWeekend\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\C++\RayTracingInAWeekend\RayTracingInAWeekend\RayTracingInAWeekend\CMakeLists.TXT" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3D90B2C5-3CB6-39EE-B3AE-18239B27E738}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

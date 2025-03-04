@@ -1,0 +1,3 @@
+F:/C++/RayTracingInAWeekend/RayTracingInAWeekend/RayTracingInAWeekend/build/CMakeFiles/RayTracingInAWeekend.dir
+F:/C++/RayTracingInAWeekend/RayTracingInAWeekend/RayTracingInAWeekend/build/CMakeFiles/ALL_BUILD.dir
+F:/C++/RayTracingInAWeekend/RayTracingInAWeekend/RayTracingInAWeekend/build/CMakeFiles/ZERO_CHECK.dir
